@@ -43,8 +43,8 @@ const Login = () => {
       <div className="w-full max-w-md">
         <div className="text-center mb-8">
           <div className="flex items-center justify-center gap-2 mb-4">
-            <CheckSquare className="h-8 w-8 text-primary" />
-            <h1 className="text-3xl font-bold text-foreground">TaskFlow</h1>
+            <CheckSquare className="h-8 w-8 text-purple" />
+            <h1 className="text-3xl font-bold text-purple">TaskFlow</h1>
           </div>
           <p className="text-muted-foreground">Organize your work and life, finally.</p>
         </div>
